@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration and guidance from the data visualization community.
 
 ## Contact
-For any questions or feedback, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, feel free to reach out at [your.email@example.com](mailto:talhafareedi092@gmail.com).
 
 
 
