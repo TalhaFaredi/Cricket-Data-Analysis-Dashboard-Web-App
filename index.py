@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title="Cricket Analysis", page_icon=":bar_chart", layout='wide')
 
 ## Title and padding 
-st.title(":bar_chart: Cricket World Cup Analysis")
+st.title(":bar_chart: Cricket World Cup Analysis Dashboard")
 st.markdown("<style>div.block-container{padding-top : 1rem;}</style>", unsafe_allow_html=True)
 
 ## Adding Style.css 
